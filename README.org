@@ -1,0 +1,13 @@
+#+TITLE: Harmony Town Lawbook
+#+AUTHOR: Conscat
+#+OPTIONS: ^:{}
+#+STARTUP:
+
+* Laws
+1. Treat others with respect!
+2. Don’t kill without a cause!
+   - If somepony rapes or murders another, and the legal system does not charge them, they may be killed.
+3. No littering!
+4. Follow the virtues of Harmony; /Loyalty/, /Laughter/, /Kindness/, /Generosity/, /Honesty/, and /Magic/!
+5. A pony may only be charged for a single crime up to five times!
+   - New evidence must be brought into light each time.
